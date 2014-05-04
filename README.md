@@ -14,4 +14,5 @@ Generate the pattern below with the least numbers of bytes of code:
  ____*_*____ 
  _____*_____ 
  _____*_____ 
+ 
 
